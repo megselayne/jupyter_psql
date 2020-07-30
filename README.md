@@ -10,12 +10,6 @@ Using jupyter for PSQL
 	- type `jupyter-lab` from the folder you want to work in Jupyter. This only matters if you want access to files
 	- this terminal is now exclusively running your Jupiter lab kernel (like psql does) if you need to navigate your directory etc, open a new terminal and leave this one alone.
 	- to shutdown the kernel at any time: `control+c`, confirm `y`
-- starter code to get you up and running
-- run  `%load_ext sql`  in your first cell
-	- loads python-sql which you installed
-- run `%sql postgresql://localhost/databaseName` in the next cell
-- That’s it! To tell Jupyter that you’re running SQL, start each cell with :
-	- `%%sql` and then on the next lines, type your SQL!
 
 ## Go to Jupyter Sample Notebook
 - Once you've installed the above, go checkout the sample starter notebook for directions on how to use jupyter and get up and running!
