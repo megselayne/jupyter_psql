@@ -9,7 +9,7 @@ Using jupyter for PSQL
 	- `pip install ipython-sql`
 - launch jupyter-lab
 	- type `jupyter-lab` from the folder you want to work in Jupyter. This only matters if you want access to files
-	- this terminal is now exclusively running your Jupiter lab kernel (like psql does) if you need to navigate your directory etc, open a new terminal and leave this one alone.
+	- this terminal is now exclusively running your Jupyter lab kernel (like psql does) if you need to navigate your directory etc, open a new terminal and leave this one alone.
 	- to shutdown the kernel at any time: `control+c`, confirm `y`
 
 ## Go to Jupyter Sample Notebook
