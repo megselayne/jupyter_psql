@@ -4,6 +4,7 @@ Using jupyter for PSQL
 - install Jupyter notebook or Jupyter lab
 	- Jupyter notebook has some extra features, but is still in beta, though quite widely used in the Data Science community. FYI, notebook doesn’t have dark mode
 	- [Installation — JupyterLab 2.2.2 documentation](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+	- If you use pip: `pip install jupyterlab`
 - install python-sql
 	- `pip install ipython-sql`
 - launch jupyter-lab
